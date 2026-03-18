@@ -43,11 +43,17 @@ konularında aktif deneyim kazandım :contentReference[oaicite:0]{index=0}
 
 ---
 
-## 🛒 Öne Çıkan Projem
+### 🛒 Öne Çıkan Projem
 
-### 🔥 TeknoForce E-Commerce & Corporate Platform
+## 🔥 TeknoForce E-Commerce (Live Project)
 
-Bu proje, sıfırdan geliştirip **yayına aldığım ilk full-stack sistemdir**.
+🚀 Gerçek bir şirket için geliştirilmiş ve aktif kullanılan e-ticaret sistemi
+
+## 🎬 Proje Demo
+
+<p align="center">
+  <img src="demo.gif" width="700"/>
+</p>
 
 ✔️ Admin panel + kullanıcı arayüzü  
 ✔️ Ürün / kategori / marka yönetimi  
